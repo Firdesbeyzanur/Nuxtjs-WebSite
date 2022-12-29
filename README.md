@@ -2,7 +2,7 @@
 
 ## Build Setup
 
-```bash
+```bashCancel changes
 # install dependencies
 $ npm install
 
@@ -16,6 +16,18 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+![Untitled](https://user-images.githubusercontent.com/99497565/209915036-86dd45d3-9a8e-4051-9ade-59773c3735f3.jpg)
+
+![2](https://user-images.githubusercontent.com/99497565/209915042-64f2c9b5-b98f-44e0-8f68-83212dc4ba6f.jpg)
+
+![33](https://user-images.githubusercontent.com/99497565/209915047-15caeee7-7998-4b33-bc21-935e870494a8.jpg)
+
+![4](https://user-images.githubusercontent.com/99497565/209915050-add57649-9a07-425c-be2f-563b6bdd84c2.jpg)
+
+![5](https://user-images.githubusercontent.com/99497565/209915055-b642d040-916f-4059-8244-396c21208609.jpg)
+
+![7](https://user-images.githubusercontent.com/99497565/209915065-709e9753-6184-4e7e-a05b-6f1b20601cca.jpg)
+
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
